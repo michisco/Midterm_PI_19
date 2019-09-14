@@ -11,3 +11,6 @@ Si vuole realizzare un controllo grafico che consenta di disegnare dei tracciati
 **Esercizio 2**
 Si estenda il controllo dell’esercizio 1 per consentire di selezionare uno o più tracciati e, mediante la pressione di un’apposita area cliccabile, si animino oggetti che si muovano lungo le traiettorie indicate in parallelo e con velocità differenti selezionate casualmente.
 
+![](es2.gif)
+
+**FIX** La traiettoria della "macchinina" bisogna che sia centrata nel tracciato.
